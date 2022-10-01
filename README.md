@@ -1,6 +1,6 @@
 # Microsoft Teams Clone- Video Conferencing Web App
 
-Under the microsoft Engage 2021 program made a video-chat app, where users can chat with both video and audio and implemented few features such as:
+I made a video-chat app, where users can chat with both video and audio and implemented few features such as:
 
 * Mute and Unmute button (Gives a notification when clicked).
 * Video off and On (Gives a notification when clicked).
