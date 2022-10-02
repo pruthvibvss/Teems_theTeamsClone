@@ -33,7 +33,7 @@ I made a video-chat app, where users can chat with both video and audio and impl
 ## Instructions
 
 
-1. `git clone https://github.com/Hanish0909/Hey-Meet.git`
+1. `git clone https://github.com/pruthvibvss/Teems_theTeamsClone.git`
 2. Install node dependencies 
    - `npm install` 
 3. `npm start`
