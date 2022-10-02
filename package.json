@@ -1,13 +1,13 @@
 {
-  "name": "engage-21",
+  "name": "Teems",
   "version": "1.0.0",
-  "description": "Building a Microsoft Teams clone during Microsoft Engage'21 program.",
+  "description": "Building a Microsoft Teams clone.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Guru Sai Kumar",
+  "author": "Pruthvi B V S S",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
